@@ -1,2 +1,3 @@
-function aaa(){}
-function bbb(){}
+
+fun aaa(){}
+fun bbb(int num){}
