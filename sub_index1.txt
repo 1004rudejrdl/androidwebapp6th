@@ -2,3 +2,6 @@ LiBReShiNn
 test
 WTF
 aaa(Double num){}
+
+fun aaa()
+fun bbb(int num)
